@@ -1,0 +1,74 @@
+  834  mkdir git-tutorial
+  835  cd git-tutorial/
+  836  git status
+  837  git branch
+  838  git push
+  839  git init
+  840  git branch
+  841  touch .gitignore
+  842  git add .gitignore
+  843  git status
+  844  git rm --cached .gitignore
+  845  history
+  846  man history
+  847  history > history
+  848  vim history 
+  849  ls
+  850  ls
+  851  git status
+  852  git branch
+  853  git add .gitignore
+  854  git status
+  855  git commit
+  856  git branch
+  857  git lg
+  858  touch my_awesome_script.py
+  859  ls
+  860  subl --add .
+  861  ls
+  862  chmod u+x my_awesome_script.py 
+  863  ./my_awesome_script.py 
+  864  git status
+  865  ls
+  866  ls -a
+  867  ./my_awesome_script.py 
+  868  ls
+  869  python my_awesome_script.py 
+  870  ls
+  871  which pythnon
+  872  which python
+  873  ls
+  874  ls
+  875  git status
+  876  ls -a
+  877  git add my_awesome_script.py
+  878  git status
+  879  git commit
+  880  git status 
+  881  git diff
+  882  git diff --cached
+  883  git commit
+  884  git status
+  885  git lg
+  886  git rev-parse HEAD
+  887  git log
+  888  git lg
+  889  git push
+  890  git remote -v
+  891  ls
+  892  git status
+  893  history > history
+  894  vim history 
+  895  git add history
+  896  git ci -m "the story so far"
+  897  git lg
+  898  git status
+  899  git reset --hard HEAD^
+  900  git status
+  901  ls
+  902  git reset --hard 39eed15
+  903  git lg
+  904  git reset HEAD^
+  905  git lg
+  906  ls
+  907  history >> history
