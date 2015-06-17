@@ -7,3 +7,4 @@ def some_function():
 if __name__ == "__main__":
 	print ("Oh hello world! This is '%s' reporting for duty!" % __file__)
 	print ("I'm executing as main!")
+	some_function()
