@@ -72,3 +72,11 @@
   905  git lg
   906  ls
   907  history >> history
+  908  vim history 
+  909  git add history
+  910  git status
+  911  git ci
+  912  git status
+  913  git lg
+  914  git config --global alias.ci "commit"
+  915  history >> history
