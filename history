@@ -80,3 +80,19 @@
   913  git lg
   914  git config --global alias.ci "commit"
   915  history >> history
+  417  history
+  418  git status
+  419  git diff
+  420  git add -p
+  421  git status
+  422  git diff --cached
+  423  git status
+  424  git diff
+  425  git status
+  426  git co -- history
+  427  git status
+  428  git diff --cached
+  429  git ci
+  430  history
+  431  git config --global alias.co checkout
+  432  history >> history
